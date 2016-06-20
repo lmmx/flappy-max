@@ -5,4 +5,4 @@ First Go app with `gomobile`! Travel the world as a 7 year old Gopher called Max
 
 * APK available, or compile for iOS with `gomobile` (possible on OS X only)
 
-![](assets/flappy-max.png)
+![](assets/max.png)
